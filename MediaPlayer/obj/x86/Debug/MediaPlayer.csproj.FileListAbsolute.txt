@@ -1,0 +1,60 @@
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MainWindow.baml
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\App.g.cs
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.g.resources
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MainWindow.baml
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\App.g.cs
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.g.resources
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.0.tlog
+C:\Users\mkemako1\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.0.tlog
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.0.tlog
+C:\Users\Mike\Desktop\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.0.tlog
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+U:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+U:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\MainWindow.baml
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\MainWindow.g.cs
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\App.g.cs
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer_MarkupCompile.cache
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.g.resources
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Properties.Resources.resources
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.0.tlog
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.0.tlog
+U:\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\MainWindow.baml
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\App.g.cs
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.g.resources
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.0.tlog
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.0.tlog
+C:\Users\Mike\Desktop\Computer Science\GUI Design and Development\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
