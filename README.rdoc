@@ -1,0 +1,31 @@
+MediaPlayer
+===========
+
+What was used to develop the application:
+
+ Created a Dynamic Webservice in Eclipse
+ Visual Studios 2010 IDE
+ C# Programming Language
+ WPF Application
+ XAML
+
+Summary:
+
+A WPF application that plays videos, displays pictures and plays music
+
+How to use:
+ Open up the application
+ In the top left hand corner select File
+ From there open a video, image or audio file
+ The file will be displayed on screen
+ Play videos and music
+
+
+Notes:
+
+  Application is in the release as an executable.
+  I plan on modifying this application a bit more in future
+  
+
+
+
