@@ -22,7 +22,7 @@ How to use:
 Notes:
 
   Application is in the release as an executable.
-  I plan on modifying this application a bit more in future
+  I plan on modifying this application a bit more in the future
   
 
 
