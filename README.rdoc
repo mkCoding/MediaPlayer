@@ -2,7 +2,6 @@
 
 What was used to develop the application:
 
- Created a Dynamic Webservice in Eclipse
  Visual Studios 2010 IDE
  C# Programming Language
  WPF Application
