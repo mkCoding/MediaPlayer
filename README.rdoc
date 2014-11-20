@@ -9,7 +9,7 @@ What was used to develop the application:
 
 Summary:
 
-A WPF application that plays videos, displays pictures and plays music
+ A WPF application that plays videos, displays pictures and plays music
 
 How to use:
  Open up the application
